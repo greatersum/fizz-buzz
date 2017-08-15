@@ -1,0 +1,3 @@
+function fizzBuzzTranslator(toTranslate) {
+    return "";
+}
