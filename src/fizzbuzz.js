@@ -1,3 +1,0 @@
-function fizzBuzzTranslator(toTranslate) {
-    return "";
-}
